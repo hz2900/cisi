@@ -1,5 +1,6 @@
 [
     {
+        "School Name": "Trine University",
         "Year Founded": "1884",
         "Type": "Non-profit",
         "Top-Tier Regional Accreditation": "Yes",
@@ -18,6 +19,7 @@
         "Application Fee": "0"
     },
     {
+        "School Name": "Westcliff University",
         "Year Founded": "1993",
         "Type": "For-profit",
         "Top-Tier Regional Accreditation": "Yes",
@@ -36,6 +38,7 @@
         "Application Fee": "$50, waived via CISI"
     },
     {
+        "School Name": "Humphreys University",
         "Year Founded": "1896",
         "Type": "Private Non-Profit",
         "Top-Tier Regional Accreditation": "Yes",
@@ -54,6 +57,7 @@
         "Application Fee": "0"
     },
     {
+        "School Name": "Sofia University",
         "Year Founded": "1975",
         "Type": "For-profit",
         "Top-Tier Regional Accreditation": "Yes",
@@ -72,6 +76,7 @@
         "Application Fee": "$75, waived via CISI"
     },
     {
+        "School Name": "New England College",
         "Year Founded": "1946",
         "Type": "Non-profit",
         "Top-Tier Regional Accreditation": "Yes",
@@ -90,6 +95,7 @@
         "Application Fee": "0"
     },
     {
+        "School Name": "Monroe University",
         "Year Founded": "1933",
         "Type": "For-profit",
         "Top-Tier Regional Accreditation": "Yes",
@@ -108,6 +114,7 @@
         "Application Fee": "$50, waived via CISI"
     },
     {
+        "School Name": "CIAM",
         "Year Founded": "2011",
         "Type": "Non-profit",
         "Top-Tier Regional Accreditation": "Yes",
@@ -126,6 +133,7 @@
         "Application Fee": "$75, waived via CISI"
     },
     {
+        "School Name": "Ottawa University",
         "Year Founded": "1865",
         "Type": "Non-profit",
         "Top-Tier Regional Accreditation": "Yes",
@@ -144,6 +152,7 @@
         "Application Fee": "$75, waived via CISI"
     },
     {
+        "School Name": "Harrisburg University",
         "Year Founded": "2001",
         "Type": "Non-profit",
         "Top-Tier Regional Accreditation": "Yes",
@@ -162,6 +171,7 @@
         "Application Fee": "0"
     },
     {
+        "School Name": "National Louis University",
         "Year Founded": "1886",
         "Type": "Non-profit",
         "Top-Tier Regional Accreditation": "Yes",
